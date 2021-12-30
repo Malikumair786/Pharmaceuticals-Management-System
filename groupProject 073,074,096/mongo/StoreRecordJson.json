@@ -1,0 +1,205 @@
+[{
+  "_id": {
+    "$oid": "61bc2faa642c1a85790f86d2"
+  },
+  "storename": "Umair Pharmacy",
+  "storemanager": "Umair",
+  "storecontact": "0333-1111111",
+  "storeaddress": "Rawalpindi",
+  "medicinename": "Panadol",
+  "mfg_date": "01-DEC-20",
+  "exp_date": "01-DEC-23",
+  "composition": "Formula1",
+  "cost_per_tab": 30,
+  "quantity": 4,
+  "dealername": "Bahadur",
+  "dealraddress": "Gujranwala",
+  "dealercontact": "0301-1111113"
+},{
+  "_id": {
+    "$oid": "61bc2fc2642c1a85790f86d3"
+  },
+  "storename": "Arshad Pharmacy",
+  "storemanager": "Arshad",
+  "storecontact": "0333-1111112",
+  "storeaddress": "Islamabad",
+  "medicinename": "Panadol",
+  "mfg_date": "01-DEC-20",
+  "exp_date": "01-DEC-23",
+  "composition": "Formula1",
+  "cost_per_tab": 30,
+  "quantity": 12,
+  "dealername": "Usman",
+  "dealraddress": "Rawalpindi",
+  "dealercontact": "0301-1111111"
+},{
+  "_id": {
+    "$oid": "61bc2fd1642c1a85790f86d4"
+  },
+  "storename": "Zeeshan Pharmacy",
+  "storemanager": "Zeeshan",
+  "storecontact": "0333-1111113",
+  "storeaddress": "Rawalpindi",
+  "medicinename": "Panadol",
+  "mfg_date": "01-DEC-20",
+  "exp_date": "01-DEC-23",
+  "composition": "Formula1",
+  "cost_per_tab": 30,
+  "quantity": 5,
+  "dealername": "Khurram",
+  "dealraddress": "Rawalpindi",
+  "dealercontact": "0301-1111110"
+},{
+  "_id": {
+    "$oid": "61bc2fe0642c1a85790f86d5"
+  },
+  "storename": "Umair Pharmacy",
+  "storemanager": "Umair",
+  "storecontact": "0333-1111111",
+  "storeaddress": "Rawalpindi",
+  "medicinename": "Panadol Extra",
+  "mfg_date": "01-DEC-20",
+  "exp_date": "01-DEC-23",
+  "composition": "Formula1",
+  "cost_per_tab": 40,
+  "quantity": 10,
+  "dealername": "Bahadur",
+  "dealraddress": "Gujranwala",
+  "dealercontact": "0301-1111113"
+},{
+  "_id": {
+    "$oid": "61bc2fee642c1a85790f86d6"
+  },
+  "storename": "Arshad Pharmacy",
+  "storemanager": "Arshad",
+  "storecontact": "0333-1111112",
+  "storeaddress": "Islamabad",
+  "medicinename": "Panadol Extra",
+  "mfg_date": "01-DEC-20",
+  "exp_date": "01-DEC-23",
+  "composition": "Formula1",
+  "cost_per_tab": 40,
+  "quantity": 11,
+  "dealername": "Usman",
+  "dealraddress": "Rawalpindi",
+  "dealercontact": "0301-1111111"
+},{
+  "_id": {
+    "$oid": "61bc2ffb642c1a85790f86d7"
+  },
+  "storename": "Zeeshan Pharmacy",
+  "storemanager": "Zeeshan",
+  "storecontact": "0333-1111113",
+  "storeaddress": "Rawalpindi",
+  "medicinename": "Panadol Extra",
+  "mfg_date": "01-DEC-20",
+  "exp_date": "01-DEC-23",
+  "composition": "Formula1",
+  "cost_per_tab": 40,
+  "quantity": 9,
+  "dealername": "Khurram",
+  "dealraddress": "Rawalpindi",
+  "dealercontact": "0301-1111110"
+},{
+  "_id": {
+    "$oid": "61bc300d642c1a85790f86d8"
+  },
+  "storename": "Mujtaba Pharmacy",
+  "storemanager": "Mujtaba",
+  "storecontact": "0333-1111110",
+  "storeaddress": "Islamabad",
+  "medicinename": "Panadol Extra",
+  "mfg_date": "01-DEC-20",
+  "exp_date": "01-DEC-23",
+  "composition": "Formula1",
+  "cost_per_tab": 40,
+  "quantity": 8,
+  "dealername": "Sardar",
+  "dealraddress": "Sialkot",
+  "dealercontact": "0301-1111112"
+},{
+  "_id": {
+    "$oid": "61bc301b642c1a85790f86d9"
+  },
+  "storename": "Bukhari Pharmacy",
+  "storemanager": "Bukhari",
+  "storecontact": "0333-1111116",
+  "storeaddress": "Lahore",
+  "medicinename": "Disprin",
+  "mfg_date": "01-DEC-20",
+  "exp_date": "01-DEC-23",
+  "composition": "Formula3",
+  "cost_per_tab": 30,
+  "quantity": 12,
+  "dealername": "Kamran",
+  "dealraddress": "Gujranwala",
+  "dealercontact": "0301-1111116"
+},{
+  "_id": {
+    "$oid": "61bc302f642c1a85790f86da"
+  },
+  "storename": "Umair Pharmacy",
+  "storemanager": "Umair",
+  "storecontact": "0333-1111111",
+  "storeaddress": "Rawalpindi",
+  "medicinename": "Disprin",
+  "mfg_date": "01-DEC-20",
+  "exp_date": "01-DEC-23",
+  "composition": "Formula3",
+  "cost_per_tab": 30,
+  "quantity": 3,
+  "dealername": "Shahzad",
+  "dealraddress": "Gujranwala",
+  "dealercontact": "0301-1111117"
+},{
+  "_id": {
+    "$oid": "61bc3035642c1a85790f86db"
+  },
+  "storename": "Tariq Pharmacy",
+  "storemanager": "Tariq",
+  "storecontact": "0333-1111121",
+  "storeaddress": "Lahore",
+  "medicinename": "Disprin",
+  "mfg_date": "01-DEC-20",
+  "exp_date": "01-DEC-23",
+  "composition": "Formula3",
+  "cost_per_tab": 30,
+  "quantity": 5,
+  "dealername": "Danish",
+  "dealraddress": "Kashmir",
+  "dealercontact": "0301-1111119"
+},{
+  "_id": {
+    "$oid": "61bc3044642c1a85790f86dc"
+  },
+  "storename": "Mujtaba Pharmacy",
+  "storemanager": "Mujtaba",
+  "storecontact": "0333-1111110",
+  "storeaddress": "Islamabad",
+  "medicinename": "Panadol Extra",
+  "mfg_date": "01-DEC-20",
+  "exp_date": "01-DEC-23",
+  "composition": "Formula1",
+  "cost_per_tab": 30,
+  "quantity": 1,
+  "dealername": "Sardar",
+  "dealraddress": "Sialkot",
+  "dealercontact": "0301-1111112"
+},{
+  "_id": {
+    "$oid": "61bc3055642c1a85790f86dd"
+  },
+  "storename": "Umair Pharmacy",
+  "storemanager": "Umair",
+  "storecontact": "0333-1111111",
+  "storeaddress": "Rawalpindi",
+  "medicinename": "Panadol Extra",
+  "mfg_date": "01-DEC-20",
+  "exp_date": "01-DEC-23",
+  "composition": "Formula1",
+  "cost_per_tab": 30,
+  "quantity": 34,
+  "dealername": "Bahadur",
+  "dealraddress": "Gujranwala",
+  "dealercontact": "0301-1111113"
+}]

@@ -1,0 +1,325 @@
+[{
+  "_id": {
+    "$oid": "61c55b7a1455918efc35f7ae"
+  },
+  "patientname": "Hamza",
+  "patientaddress": "Karachi",
+  "patientcontact": "0302-2222222",
+  "Doctor": {
+    "doctorname": "Tahir"
+  },
+  "HospitalInfo": {
+    "hospitalname": "Center Hospital",
+    "hospitaladdress": "Rawalpindi",
+    "hospitalcontact": "0303-1111112",
+    "treatmentdate": {
+      "$date": "2021-11-30T19:00:00Z"
+    }
+  },
+  "Pharmacy": {
+    "pharmacyname": "Umair Pharmacy",
+    "pharmacyowner": "Umair",
+    "pharmacyaddress": "Rawalpindi",
+    "pharmacycontacy": "0333-1111111",
+    "purchasedate": "07-DEC-21",
+    "quantity": "12",
+    "totalbill": 1345
+  }
+},{
+  "_id": {
+    "$oid": "61c55c341455918efc35f7af"
+  },
+  "patientname": "Arham",
+  "patientaddress": "Rawalpindi",
+  "patientcontact": "0302-2222220",
+  "Doctor": {
+    "doctorname": "Tahir"
+  },
+  "Hospital": {
+    "hospitalname": "CMH",
+    "hospitaladdress": "Rawalpindi",
+    "hospitalcontact": "0303-1111110",
+    "treatmentdate": "01-DEC-21"
+  },
+  "Pharmacy": {
+    "pharmacyname": "Arshad Pharmacy",
+    "pharmacyowner": "Arshad",
+    "pharmacyaddress": "Islamabad",
+    "pharmacycontacy": "0333-1111112",
+    "purchasedate": {
+      "$date": "2021-12-06T19:00:00Z"
+    },
+    "quantity": "4",
+    "totalbill": 1455
+  }
+},{
+  "_id": {
+    "$oid": "61c55ce21455918efc35f7b0"
+  },
+  "patientname": "Zamin",
+  "patientaddress": "Rawalpindi",
+  "patientcontact": "0302-2222221",
+  "Doctor": {
+    "doctorname": "Tahir"
+  },
+  "Hospital": {
+    "hospitalname": "MH",
+    "hospitaladdress": "Rawalpindi",
+    "hospitalcontact": "0303-1111111",
+    "treatmentdate": "01-DEC-21"
+  },
+  "Pharmacy": {
+    "pharmacyname": "Arshad Pharmacy",
+    "pharmacyowner": "Arshad",
+    "pharmacyaddress": "Islamabad",
+    "pharmacycontacy": "0333-1111112",
+    "purchasedate": {
+      "$date": "2021-12-06T19:00:00Z"
+    },
+    "quantity": "8",
+    "totalbill": 1300
+  }
+},{
+  "_id": {
+    "$oid": "61c55d581455918efc35f7b1"
+  },
+  "patientname": "Hamza",
+  "patientaddress": "Karachi",
+  "patientcontact": "0302-2222222",
+  "Doctor": {
+    "doctorname": "Tahir"
+  },
+  "Hospital": {
+    "hospitalname": "Center Hospital",
+    "hospitaladdress": "Rawalpindi",
+    "hospitalcontact": "0303-1111112",
+    "treatmentdate": "01-DEC-21"
+  },
+  "Pharmacy": {
+    "pharmacyname": "Arshad Pharmacy",
+    "pharmacyowner": "Arshad",
+    "pharmacyaddress": "Islamabad",
+    "pharmacycontacy": "0333-1111112",
+    "purchasedate": {
+      "$date": "2021-12-06T19:00:00Z"
+    },
+    "quantity": "13",
+    "totalbill": 1200
+  }
+},{
+  "_id": {
+    "$oid": "61c55dc31455918efc35f7b2"
+  },
+  "patientname": "Arham",
+  "patientaddress": "Rawalpindi",
+  "patientcontact": "0302-2222220",
+  "Doctor": {
+    "doctorname": "Tahir"
+  },
+  "Hospital": {
+    "hospitalname": "CMH",
+    "hospitaladdress": "Rawalpindi",
+    "hospitalcontact": "0303-1111110",
+    "treatmentdate": "01-DEC-21"
+  },
+  "Pharmacy": {
+    "pharmacyname": "Zeeshan Pharmacy",
+    "pharmacyowner": "Zeeshan",
+    "pharmacyaddress": "Rawalpindi",
+    "pharmacycontacy": "0333-1111113",
+    "purchasedate": {
+      "$date": "2021-12-06T19:00:00Z"
+    },
+    "quantity": "5",
+    "totalbill": 1400
+  }
+},{
+  "_id": {
+    "$oid": "61c55e1c1455918efc35f7b3"
+  },
+  "patientname": "Zamin",
+  "patientaddress": "Rawalpindi",
+  "patientcontact": "0302-2222221",
+  "Doctor": {
+    "doctorname": "Tahir"
+  },
+  "Hospital": {
+    "hospitalname": "MH",
+    "hospitaladdress": "Rawalpindi",
+    "hospitalcontact": "0303-1111111",
+    "treatmentdate": "01-DEC-21"
+  },
+  "Pharmacy": {
+    "pharmacyname": "Zeeshan Pharmacy",
+    "pharmacyowner": "Zeeshan",
+    "pharmacyaddress": "Rawalpindi",
+    "pharmacycontacy": "0333-1111113",
+    "purchasedate": {
+      "$date": "2021-12-06T19:00:00Z"
+    },
+    "quantity": "9",
+    "totalbill": 1200
+  }
+},{
+  "_id": {
+    "$oid": "61c55e721455918efc35f7b4"
+  },
+  "patientname": "Irfan",
+  "patientaddress": "Karachi",
+  "patientcontact": "0302-2222223",
+  "Doctor": {
+    "doctorname": "Tahir"
+  },
+  "Hopital": {
+    "hospitalname": "Benazir Hospital",
+    "hospitaladdress": "Rawalpindi",
+    "hospitalcontact": "0303-1111113",
+    "treatmentdate": "01-DEC-21"
+  },
+  "Pharmacy": {
+    "pharmacyname": "Zeeshan Pharmacy",
+    "pharmacyowner": "Zeeshan",
+    "pharmacyaddress": "Rawalpindi",
+    "pharmacycontacy": "0333-1111113",
+    "purchasedate": {
+      "$date": "2021-12-06T19:00:00Z"
+    },
+    "quantity": "14",
+    "totalbill": 1600
+  }
+},{
+  "_id": {
+    "$oid": "61c55eb91455918efc35f7b5"
+  },
+  "patientname": "Arham",
+  "patientaddress": "Rawalpindi",
+  "patientcontact": "0302-2222220",
+  "Doctor": {
+    "doctorname": "Tahir"
+  },
+  "Hospital": {
+    "hospitalname": "CMH",
+    "hospitaladdress": "Rawalpindi",
+    "hospitalcontact": "0303-1111110",
+    "treatmentdate": "01-DEC-21"
+  },
+  "Pharmacy": {
+    "pharmacyname": "Mujtaba Pharmacy",
+    "pharmacyowner": "Mujtaba",
+    "pharmacyaddress": "Islamabad",
+    "pharmacycontacy": "0333-1111110",
+    "purchasedate": {
+      "$date": "2021-12-06T19:00:00Z"
+    },
+    "quantity": "6",
+    "totalbill": 560
+  }
+},{
+  "_id": {
+    "$oid": "61c55eeb1455918efc35f7b6"
+  },
+  "patientname": "Zamin",
+  "patientaddress": "Rawalpindi",
+  "patientcontact": "0302-2222221",
+  "Doctor": {
+    "doctorname": "Tahir"
+  },
+  "Hospital": {
+    "hospitalname": "MH",
+    "hospitaladdress": "Rawalpindi",
+    "hospitalcontact": "0303-1111111",
+    "treatmentdate": "01-DEC-21"
+  },
+  "Pharmacy": {
+    "pharmacyname": "Mujtaba Pharmacy",
+    "pharmacyowner": "Mujtaba",
+    "pharmacyaddress": "Islamabad",
+    "pharmacycontacy": "0333-1111110",
+    "purchasedate": {
+      "$date": "2002-12-06T19:00:00Z"
+    },
+    "quantity": "10",
+    "totalbill": 300
+  }
+},{
+  "_id": {
+    "$oid": "61c55f3b1455918efc35f7b7"
+  },
+  "patientname": "Zamin",
+  "patientaddress": "Rawalpindi",
+  "patientcontact": "0302-2222221",
+  "Doctor": {
+    "doctorname": "Tahir"
+  },
+  "Hospital": {
+    "hospitalname": "MH",
+    "hospitaladdress": "Rawalpindi",
+    "hospitalcontact": "0303-1111111",
+    "treatmentdate": "01-DEC-21"
+  },
+  "Pharmacy": {
+    "pharmacyname": "Shaharyar Pharmacy",
+    "pharmacyowner": "Shaharyar",
+    "pharmacyaddress": "Karachi",
+    "pharmacycontacy": "0333-1111114",
+    "purchasedate": {
+      "$date": "2021-12-06T19:00:00Z"
+    },
+    "quantity": "11",
+    "totalbill": 1500
+  }
+},{
+  "_id": {
+    "$oid": "61c55f721455918efc35f7b8"
+  },
+  "patientname": "Arham",
+  "patientaddress": "Rawalpindi",
+  "patientcontact": "0302-2222220",
+  "doctor": {
+    "doctorname": "Tahir"
+  },
+  "hospital": {
+    "hospitalname": "CMH",
+    "hospitaladdress": "Rawalpindi",
+    "hospitalcontact": "0303-1111110",
+    "treatmentdate": "01-DEC-21"
+  },
+  "pharmacy": {
+    "pharmacyname": "Umair Pharmacy",
+    "pharmacyowner": "Umair",
+    "pharmacyaddress": "Rawalpindi",
+    "pharmacycontacy": "0333-1111111",
+    "purchasedate": {
+      "$date": "2021-12-06T19:00:00Z"
+    },
+    "quantity": "3",
+    "totalbill": 1300
+  }
+},{
+  "_id": {
+    "$oid": "61c55fe01455918efc35f7b9"
+  },
+  "patientname": "Arham",
+  "patientaddress": "Rawalpindi",
+  "patientcontact": "0302-2222220",
+  "Doctor": {
+    "doctorname": "Tahir"
+  },
+  "Hospital": {
+    "hospitalname": "CMH",
+    "hospitaladdress": "Rawalpindi",
+    "hospitalcontact": "0303-1111110",
+    "treatmentdate": "01-DEC-21"
+  },
+  "Pharmacy": {
+    "pharmacyname": "Umair Pharmacy",
+    "pharmacyowner": "Umair",
+    "pharmacyaddress": "Rawalpindi",
+    "pharmacycontacy": "0333-1111111",
+    "purchasedate": {
+      "$date": "2021-12-06T19:00:00Z"
+    },
+    "quantity": "3",
+    "totalbill": 1300
+  }
+}]
